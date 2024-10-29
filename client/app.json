@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Betafier",
-    "slug": "Betafier",
+    "slug": "aaa",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -39,8 +39,9 @@
         "origin": false
       },
       "eas": {
-        "projectId": "56deae7e-60b5-478e-b99a-b6fe3972e11c"
+        "projectId": "879f028c-5043-4f7f-b669-a6889d28d8ca"
       }
-    }
+    },
+    "owner": "gauravsuman12"
   }
 }
